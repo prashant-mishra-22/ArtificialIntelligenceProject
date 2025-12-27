@@ -7,15 +7,99 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-red)
 ![Reinforcement Learning](https://img.shields.io/badge/RL-DQN-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Contributors](https://img.shields.io/badge/Contributors-3-purple)
+![NIT Patna](https://img.shields.io/badge/NIT-Patna-yellow)
 
 **A Deep Reinforcement Learning Agent that learns to play Pacman from visual inputs using CNN + DQN Architecture**
+
+</div>
+
+## 👥 Team Members
+<div align="center">
+
+| <img src="https://github.com/prashant-mishra-22.png" width="100" height="100"> | <img src="https://github.com/rishikr507.png" width="100" height="100"> | <img src="https://github.com/ijugunu.png" width="100" height="100"> |
+|:---:|:---:|:---:|
+| **Prashant Kumar Mishra** | **Rishi Kumar** | **Satyam Bhardwaj** |
+| [@prashant-mishra-22](https://github.com/prashant-mishra-22) | [@rishikr507](https://github.com/rishikr507) | [@ijugunu](https://github.com/ijugunu) |
+| Model Architect & Documentation | Backend & Environment | Frontend & Visualization |
+
+</div>
+
+## 🏆 Badges
+
+<div align="center">
+
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/ArtificialIntelligenceProject?style=social)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/ArtificialIntelligenceProject?style=social)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/ArtificialIntelligenceProject)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/ArtificialIntelligenceProject)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/prashant-mishra-22/ArtificialIntelligenceProject)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/commits/main)
+[![Code Size](https://img.shields.io/github/languages/code-size/prashant-mishra-22/ArtificialIntelligenceProject)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject)
+[![Contributors](https://img.shields.io/github/contributors/prashant-mishra-22/ArtificialIntelligenceProject)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/graphs/contributors)
+
+</div>
+
+## 🛠️ Technical Stack
+
+<div align="center">
+
+| **Category** | **Technologies** | **Purpose** |
+|--------------|-----------------|-------------|
+| **Core Language** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Primary development language |
+| **Deep Learning Framework** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | Neural network implementation |
+| **Game Engine** | ![Pygame](https://img.shields.io/badge/Pygame-FF7F00?logo=python&logoColor=white) | Game environment & visualization |
+| **Numerical Computing** | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) | Array operations & math |
+| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) | Training metrics plotting |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | Code management & collaboration |
+| **Development Environment** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | IDE & interactive development |
+| **Virtual Environment** | ![venv](https://img.shields.io/badge/venv-3776AB?logo=python&logoColor=white) | Dependency isolation |
+
+</div>
+
+<div align="center">
+
+### 🔧 Tools & Libraries in Action
+
+<table>
+<tr>
+<td align="center">
+<strong>Reinforcement Learning</strong><br>
+![DQN](https://img.shields.io/badge/DQN-Experience%20Replay-blue)
+![CNN](https://img.shields.io/badge/CNN-Feature%20Extraction-green)
+![ε-Greedy](https://img.shields.io/badge/ε--Greedy-Exploration%20Strategy-orange)
+</td>
+<td align="center">
+<strong>Architecture</strong><br>
+![3-Layer CNN](https://img.shields.io/badge/3--Layer%20CNN-32→64→64-yellow)
+![Target Network](https://img.shields.io/badge/Target%20Network-Stability-purple)
+![Replay Buffer](https://img.shields.io/badge/Replay%20Buffer-10K%20Capacity-red)
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>Training</strong><br>
+![Adam Optimizer](https://img.shields.io/badge/Adam-LR%3A1e--4-blue)
+![Batch Size](https://img.shields.io/badge/Batch%20Size-32-green)
+![Episodes](https://img.shields.io/badge/Episodes-1000-orange)
+</td>
+<td align="center">
+<strong>Performance</strong><br>
+![Win Rate](https://img.shields.io/badge/Win%20Rate-85%25-brightgreen)
+![Ghost Avoidance](https://img.shields.io/badge/Ghost%20Avoidance-90%25-success)
+![Training Time](https://img.shields.io/badge/Training~Time-35min-yellow)
+</td>
+</tr>
+</table>
 
 </div>
 
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
 - [🎯 Objectives](#-objectives)
-- [🚀 Tech Stack & Tools](#-tech-stack--tools)
 - [🏗️ System Architecture](#️-system-architecture)
 - [🎮 Game Environment](#-game-environment)
 - [🧠 AI Agent Architecture](#-ai-agent-architecture)
@@ -28,7 +112,6 @@
 - [🔮 Future Enhancements](#-future-enhancements)
 - [🎓 Conclusion](#-conclusion)
 - [📚 References](#-references)
-- [👥 Team & Contributions](#-team--contributions)
 
 ## 🎯 Project Overview
 
@@ -44,61 +127,6 @@ This project implements an intelligent Pacman game-playing agent using Deep Rein
 4. **Create real-time visualization** of training progress and agent behavior
 5. **Achieve strategic gameplay** through autonomous learning without human intervention
 6. **Document the complete pipeline** from environment design to trained agent
-
-## 🚀 Tech Stack & Tools
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
-<br><strong>Python 3.8+</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch"/>
-<br><strong>PyTorch</strong>
-</td>
-<td align="center" width="100">
-<img src="https://www.pygame.org/images/logo_lofi.png" width="60" height="60" alt="Pygame"/>
-<br><strong>Pygame</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy"/>
-<br><strong>NumPy</strong>
-</td>
-</tr>
-<tr>
-<td align="center"><strong>Deep Learning</strong></td>
-<td align="center"><strong>Game Engine</strong></td>
-<td align="center"><strong>Visualization</strong></td>
-<td align="center"><strong>Numerical Computing</strong></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://matplotlib.org/stable/_static/logo_light.svg" width="80" height="60" alt="Matplotlib"/>
-<br><strong>Matplotlib</strong>
-</td>
-<td align="center" width="120">
-<strong>CNN Architecture</strong><br>3-Layer ConvNet
-</td>
-<td align="center" width="120">
-<strong>RL Algorithm</strong><br>Deep Q-Learning
-</td>
-<td align="center" width="120">
-<strong>Virtual Env</strong><br>venv/pip
-</td>
-</tr>
-<tr>
-<td align="center">Data Visualization</td>
-<td align="center">Feature Extraction</td>
-<td align="center">Decision Making</td>
-<td align="center">Dependency Management</td>
-</tr>
-</table>
-</div>
 
 ## 🏗️ System Architecture
 
@@ -208,8 +236,8 @@ Where:
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/pacman_rl_project.git
-cd pacman_rl_project
+git clone https://github.com/prashant-mishra-22/ArtificialIntelligenceProject.git
+cd ArtificialIntelligenceProject
 ```
 
 #### **2. Create Virtual Environment**
@@ -509,41 +537,24 @@ This implementation serves as a solid foundation for more advanced RL research a
 2. OpenAI Gym: https://gym.openai.com
 3. Reinforcement Learning Course by David Silver
 
-## 👥 Team & Contributions
-
-### **Project Team**
-| Name | Roll Number | Role | Key Contributions |
-|------|-------------|------|-------------------|
-| **Prashant Kumar Mishra** | 2447021 | Model Architect & Documentation | CNN-DQN architecture, training pipeline, report writing |
-| **Rishi Kumar** | 2447031 | Backend & Environment | Game environment, state representation, backend integration |
-| **Satyam Bhardwaj** | 2447051 | Frontend & Visualization | PyGame visualization, GUI development, testing |
-
-### **Supervisor**
-**Dr. Devarani Devi Ningombam**  
-Assistant Professor, Department of Computer Science & Engineering  
-National Institute of Technology Patna
-
-### **Course Information**
-- **Course**: Artificial Intelligence (MC470302)
-- **Program**: MCA (AI & IoT) - 3rd Semester
-- **Institution**: National Institute of Technology Patna
-- **Duration**: July 2025 – December 2025
-
 ---
 
 <div align="center">
 
-**🌟 Star this repository if you found it useful! 🌟**
+## 🏆 Project Information
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/pacman_rl_project?style=social)](https://github.com/your-username/pacman_rl_project)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/pacman_rl_project?style=social)](https://github.com/your-username/pacman_rl_project/fork)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+**Course**: Artificial Intelligence (MC470302)  
+**Semester**: 3rd Semester MCA (AI & IoT)  
+**Institution**: National Institute of Technology Patna  
+**Supervisor**: Dr. Devarani Devi Ningombam  
+**Duration**: July 2025 – December 2025
 
-**Made with ❤️ by Team Pacman-RL | NIT Patna**
+## 🌟 Star this repository if you found it useful!
 
-</div>
-
----
+[![GitHub stars](https://img.shields.io/github/stars/prashant-mishra-22/ArtificialIntelligenceProject?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/prashant-mishra-22/ArtificialIntelligenceProject?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/prashant-mishra-22/ArtificialIntelligenceProject?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/prashant-mishra-22/ArtificialIntelligenceProject?style=for-the-badge&logo=github)](https://github.com/prashant-mishra-22/ArtificialIntelligenceProject/pulls)
 
 ## 📄 License
 
@@ -560,6 +571,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Found a bug? Have a feature request? Please open an issue on GitHub or submit a pull request. Contributions are welcome!
 
----
+**Made with ❤️ by Team Pacman-RL | NIT Patna**
 
-**Note**: Replace `your-username` in the GitHub URLs with your actual GitHub username before publishing the repository.
+[Prashant Kumar Mishra](https://github.com/prashant-mishra-22) • 
+[Rishi Kumar](https://github.com/rishikr507) • 
+[Satyam Bhardwaj](https://github.com/ijugunu)
+
+</div>
