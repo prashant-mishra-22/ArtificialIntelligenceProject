@@ -1,0 +1,20 @@
+pacman_rl_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*.db
+.DS_Store
+*.pth
+models/*.pth  # Optional: ignore saved model weights if large
