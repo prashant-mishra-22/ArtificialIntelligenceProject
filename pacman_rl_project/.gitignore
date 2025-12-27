@@ -1,20 +1,44 @@
+# Virtual Environment
 pacman_rl_env/
+
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
+*.so
 .Python
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-*.log
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
 .idea/
 .vscode/
 *.swp
 *.swo
-*.db
+
+# OS
 .DS_Store
-*.pth
-models/*.pth  # Optional: ignore saved model weights if large
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Training outputs (optional)
+models/*.pth
+checkpoints/
+logs/
