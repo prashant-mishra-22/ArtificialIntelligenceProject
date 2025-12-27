@@ -62,35 +62,77 @@
 
 <div align="center">
 
-### 🔧 Tools & Libraries in Action
+## 🔧 Tools & Libraries in Action
 
+### 🧠 Reinforcement Learning Components
+<div align="center">
 <table>
 <tr>
 <td align="center">
-<strong>Reinforcement Learning</strong><br>
-![DQN](https://img.shields.io/badge/DQN-Experience%20Replay-blue)
-![CNN](https://img.shields.io/badge/CNN-Feature%20Extraction-green)
-![ε-Greedy](https://img.shields.io/badge/ε--Greedy-Exploration%20Strategy-orange)
+<img src="https://img.shields.io/badge/DQN-Experience%20Replay-0066CC" alt="DQN">
+<br><strong>Deep Q-Network</strong><br>Experience Replay System
 </td>
 <td align="center">
-<strong>Architecture</strong><br>
-![3-Layer CNN](https://img.shields.io/badge/3--Layer%20CNN-32→64→64-yellow)
-![Target Network](https://img.shields.io/badge/Target%20Network-Stability-purple)
-![Replay Buffer](https://img.shields.io/badge/Replay%20Buffer-10K%20Capacity-red)
+<img src="https://img.shields.io/badge/CNN-Feature%20Extraction-00AA00" alt="CNN">
+<br><strong>Convolutional NN</strong><br>Automatic Feature Extraction
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/ε--Greedy-Exploration%20Strategy-FF8800" alt="ε-Greedy">
+<br><strong>ε-Greedy</strong><br>Exploration Strategy
 </td>
 </tr>
+</table>
+
+### 🏗️ Neural Network Architecture
+<table>
 <tr>
 <td align="center">
-<strong>Training</strong><br>
-![Adam Optimizer](https://img.shields.io/badge/Adam-LR%3A1e--4-blue)
-![Batch Size](https://img.shields.io/badge/Batch%20Size-32-green)
-![Episodes](https://img.shields.io/badge/Episodes-1000-orange)
+<img src="https://img.shields.io/badge/3--Layer%20CNN-32→64→64-FFCC00" alt="3-Layer CNN">
+<br><strong>3-Layer CNN</strong><br>32→64→64 filters
 </td>
 <td align="center">
-<strong>Performance</strong><br>
-![Win Rate](https://img.shields.io/badge/Win%20Rate-85%25-brightgreen)
-![Ghost Avoidance](https://img.shields.io/badge/Ghost%20Avoidance-90%25-success)
-![Training Time](https://img.shields.io/badge/Training~Time-35min-yellow)
+<img src="https://img.shields.io/badge/Target%20Network-Stability%20System-AA00CC" alt="Target Network">
+<br><strong>Target Network</strong><br>Training Stability
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Replay%20Buffer-10K%20Capacity-CC0000" alt="Replay Buffer">
+<br><strong>Replay Buffer</strong><br>10,000 capacity
+</td>
+</tr>
+</table>
+
+### ⚡ Training Configuration
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Adam%20Optimizer-LR%3A%201e--4-0066CC" alt="Adam Optimizer">
+<br><strong>Adam Optimizer</strong><br>Learning Rate: 1e-4
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Batch%20Size-32%20samples-00AA00" alt="Batch Size">
+<br><strong>Batch Size</strong><br>32 samples
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Episodes-1000%20total-FF8800" alt="Episodes">
+<br><strong>Training Episodes</strong><br>1000 episodes
+</td>
+</tr>
+</table>
+
+### 📈 Performance Metrics
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Win%20Rate-85%25-00CC00" alt="Win Rate">
+<br><strong>Win Rate</strong><br>85% success
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Ghost%20Avoidance-90%25-008800" alt="Ghost Avoidance">
+<br><strong>Ghost Avoidance</strong><br>90% success
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Training%20Time-35%20minutes-FFCC00" alt="Training Time">
+<br><strong>Training Time</strong><br>35 minutes
 </td>
 </tr>
 </table>
